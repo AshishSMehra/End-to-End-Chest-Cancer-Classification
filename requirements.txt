@@ -1,5 +1,4 @@
 mlflow==2.21.2
-tensorflow==2.15.0
 pandas 
 gdown
 dvc
@@ -16,4 +15,3 @@ types-PyYAML
 scipy
 Flask
 Flask-Cors
-
